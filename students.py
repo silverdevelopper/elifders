@@ -53,7 +53,7 @@ for number in studens_dict:
     studens_dict[number].print_surname()
     studens_dict[number].print_birth_pace()
     studens_dict[number].print_department()
-    studens_dict[number].print_gpa()
+    #studens_dict[number].print_gpa()
     
 
     
