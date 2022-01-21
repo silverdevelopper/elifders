@@ -11,7 +11,6 @@ def get_digts_list(n:int):
     return l
 # 343
 # 35444453
-
 def is_polindrom_helper(dig_list:list):
     if len(dig_list) <  2:
         return True
